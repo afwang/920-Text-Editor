@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="app_name">920文本编辑器</string>
+    <string name="app_name">919文本编辑器</string>
     <string name="open">打开</string>
     <string name="select_file">选择一个文件</string>
     <string name="confirm_exit">确认要关闭程序吗?</string>
@@ -53,8 +53,8 @@
     <string name="label_license">授权</string>
     <string name="field_license">
 版本所有 (C) 2011-2012  Jecelyin Peng\n
-920编辑器为自由软件；您可依据自由软件基金会所发表的GNU通用公共授权条款规定，就本程序再为散布与／或修改；无论您依据的是本授权的第三版或（您自行选择的）任一日后发行的版本。
-920编辑器是基于使用目的而加以散布，然而不负任何担保责任；亦无对适售性或特定目的适用性所为的默示性担保。详情请参照GNU通用公共授权 http://www.gnu.org/licenses。
+919编辑器为自由软件；您可依据自由软件基金会所发表的GNU通用公共授权条款规定，就本程序再为散布与／或修改；无论您依据的是本授权的第三版或（您自行选择的）任一日后发行的版本。
+919编辑器是基于使用目的而加以散布，然而不负任何担保责任；亦无对适售性或特定目的适用性所为的默示性担保。详情请参照GNU通用公共授权 http://www.gnu.org/licenses。
     </string>
     <string name="about">关于</string>
     <string name="loading">正在加载文件...</string>

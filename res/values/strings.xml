@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="app_name">920 Text Editor</string>
+    <string name="app_name">919 Text Editor</string>
     <string name="open">Open</string>
     <string name="select_file">Select a file</string>
     <string name="confirm_exit">Are you sure you want to exit?</string>
@@ -49,8 +49,8 @@
     <string name="label_homepage">Homepage</string>
     <string name="label_license">License</string>
     <string name="field_license">"Copyright (C) 2011-2012 Jecelyin Peng
- 920 Text Editor is a free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
- 920 Text Editor is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+ 919 Text Editor is a free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+ 919 Text Editor is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
  You should have received a copy of the GNU General Public License along with this program; if not, see http://www.gnu.org/licenses."</string>
     <string name="about">About</string>
     <string name="myname">Jecelyin</string>

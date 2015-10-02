@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
-    <string name="app_name">920文本編輯器</string>
+    <string name="app_name">919文本編輯器</string>
     <string name="open">打開</string>
     <string name="select_file">選擇一個文件</string>
     <string name="confirm_exit">確認要關閉程序嗎?</string>
@@ -49,8 +49,8 @@
     <string name="label_homepage">主頁</string>
     <string name="label_license">授權</string>
     <string name="field_license">版本所有 (C) 2011-2012 Jecelyin Peng\n
-920編輯器為自由軟件；您可依據自由軟件基金會所發表的GNU通用公共授權條款規定，就本程序再為散佈與／或修改；無論您依據的是本授權的第三版或（您自行選擇的）任一日後發行的版本。
-920編輯器是基於使用目的而加以散佈，然而不負任何擔保責任；亦無對適售性或特定目的適用性所為的默示性擔保。詳情請參照GNU通用公共授權http://www.gnu.org/licenses。</string>
+919編輯器為自由軟件；您可依據自由軟件基金會所發表的GNU通用公共授權條款規定，就本程序再為散佈與／或修改；無論您依據的是本授權的第三版或（您自行選擇的）任一日後發行的版本。
+919編輯器是基於使用目的而加以散佈，然而不負任何擔保責任；亦無對適售性或特定目的適用性所為的默示性擔保。詳情請參照GNU通用公共授權http://www.gnu.org/licenses。</string>
     <string name="about">關於</string>
     <string name="loading">正在加載文件...</string>
     <string name="highlight_stop_msg">文件大小超出“高亮文件大小限制”，高亮功能已經停止</string>

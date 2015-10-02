@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
     <!-- 俄罗斯 -->
-    <string name="app_name">920 Text Editor</string>
+    <string name="app_name">919 Text Editor</string>
     <string name="open">Открыть</string>
     <string name="select_file">Выбрать файл</string>
     <string name="confirm_exit">Выйти?</string>
@@ -50,8 +50,8 @@
     <string name="label_homepage">Домашняя страница</string>
     <string name="label_license">Лицензия</string>
     <string name="field_license">"Copyright (C) 2011-2012 Jecelyin Peng
- 920 Text Editor является свободным программным обеспечением, вы можете распространять и/или модифицировать его на условиях GNU General Public License, опубликованной Free Software Foundation, версии 3, либо любой более поздней версии (по вашему выбору).
- 920 Text Editor распространяется в надежде на то что он будет полезен Вам, но БЕЗ ВСЯЧЕСКИХ ГАРАНТИЙ, даже без подразумеваемых гарантий КОММЕРЧЕСКОЙ ЦЕННОСТИ или ПРИГОДНОСТИ ДЛЯ КОНКРЕТНЫХ ЦЕЛЕЙ со стороны разработчиков. Для более подробной информации см. описание GNU General Public License.
+ 919 Text Editor является свободным программным обеспечением, вы можете распространять и/или модифицировать его на условиях GNU General Public License, опубликованной Free Software Foundation, версии 3, либо любой более поздней версии (по вашему выбору).
+ 919 Text Editor распространяется в надежде на то что он будет полезен Вам, но БЕЗ ВСЯЧЕСКИХ ГАРАНТИЙ, даже без подразумеваемых гарантий КОММЕРЧЕСКОЙ ЦЕННОСТИ или ПРИГОДНОСТИ ДЛЯ КОНКРЕТНЫХ ЦЕЛЕЙ со стороны разработчиков. Для более подробной информации см. описание GNU General Public License.
  Вы должны были получить копию Public License GNU General вместе с этой программой, в случае её отсутствия обратитесь на http://www.gnu.org/licenses."</string>
     <string name="about">О программе</string>
     <string name="myname">Jecelyin(перевод Vedmat)</string>

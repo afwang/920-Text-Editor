@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
     <!-- 西班牙语 -->
-    <string name="app_name">920 Text Editor</string>
+    <string name="app_name">919 Text Editor</string>
     <string name="open">Abrir</string>
     <string name="select_file">Seleccionar archivo</string>
     <string name="confirm_exit">¿Seguro que desea salir?</string>
@@ -50,8 +50,8 @@
     <string name="label_homepage">Página principal</string>
     <string name="label_license">Licencia</string>
     <string name="field_license">"Copyright (C) 2011-2012 Jecelyin Peng
- 920 Text Editor es una aplicación libre; usted puede distribuirla y/o modificarla bajo las condiciones de la GNU General Public License tal como fue publicada por la Free Software Foundation; ya sea la versión 3 de la licencia, o (a su elección) cualquier versión posterior.
- 920 Text Editor es distribuida con la expectativa de que sea útil, pero SIN NINGUNA GARANTÍA; incluso sin la garantía implícita de COMERCIALIZACIÓN o CONVENIENCIA PARA UN PROPÓSITO PARTICULAR. Vea la GNU General Public License para obtener más detalles.
+ 919 Text Editor es una aplicación libre; usted puede distribuirla y/o modificarla bajo las condiciones de la GNU General Public License tal como fue publicada por la Free Software Foundation; ya sea la versión 3 de la licencia, o (a su elección) cualquier versión posterior.
+ 919 Text Editor es distribuida con la expectativa de que sea útil, pero SIN NINGUNA GARANTÍA; incluso sin la garantía implícita de COMERCIALIZACIÓN o CONVENIENCIA PARA UN PROPÓSITO PARTICULAR. Vea la GNU General Public License para obtener más detalles.
  Usted debió haber recibido una copia de la GNU General Public License con este programa; si no, vaya a http://www.gnu.org/licenses."</string>
     <string name="about">Acerca de</string>
     <string name="loading">Cargando...</string>
