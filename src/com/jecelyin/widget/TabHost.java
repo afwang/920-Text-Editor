@@ -35,12 +35,12 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 import com.jecelyin.colorschemes.ColorScheme;
-import com.jecelyin.editor.JecEditor;
-import com.jecelyin.editor.Options;
-import com.jecelyin.editor.R;
 import com.jecelyin.highlight.Highlight;
 import com.jecelyin.widget.JecEditText.OnTextChangedListener;
 import com.jecelyin.widget.TabWidget.OnMenuClickListener;
+import com.wikaba.editor.JecEditor;
+import com.wikaba.editor.Options;
+import com.wikaba.editor.R;
 
 /**
  * Container for a tabbed window view. This object holds two children: a set of

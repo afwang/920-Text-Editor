@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.jecelyin.editor"
+    package="com.wikaba.editor"
     android:versionCode="36"
     android:installLocation="auto"
-    android:versionName="12.11.22" >
+    android:versionName="15.10.02" >
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
@@ -11,7 +11,7 @@
 <!--     <uses-permission android:name="com.google.android.providers.gmail.permission.READ_GMAIL"/>
  --> <uses-sdk
         android:minSdkVersion="7"
-        android:targetSdkVersion="7" >
+        android:targetSdkVersion="19" >
     </uses-sdk>
 
     <application

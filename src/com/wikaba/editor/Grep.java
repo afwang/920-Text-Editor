@@ -1,4 +1,4 @@
-package com.jecelyin.editor;
+package com.wikaba.editor;
 
 import java.io.File;
 import java.util.ArrayList;

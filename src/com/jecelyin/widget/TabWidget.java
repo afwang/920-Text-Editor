@@ -16,7 +16,7 @@
 
 package com.jecelyin.widget;
 
-import com.jecelyin.editor.R;
+import com.wikaba.editor.R;
 
 import android.content.Context;
 import android.graphics.Canvas;

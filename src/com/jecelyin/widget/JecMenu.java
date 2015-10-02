@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.jecelyin.editor.JecEditor;
-import com.jecelyin.editor.R;
+import com.wikaba.editor.JecEditor;
+import com.wikaba.editor.R;
 
 import android.app.Dialog;
 import android.content.Context;

@@ -15,11 +15,11 @@
 
 package com.jecelyin.util;
 
-import com.jecelyin.editor.EncodingList;
-import com.jecelyin.editor.JecEditor;
-import com.jecelyin.editor.R;
 import com.jecelyin.widget.JecButton;
 import com.stericson.RootTools.RootTools;
+import com.wikaba.editor.EncodingList;
+import com.wikaba.editor.JecEditor;
+import com.wikaba.editor.R;
 
 import java.io.File;
 import java.io.IOException;

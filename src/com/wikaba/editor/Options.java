@@ -13,7 +13,7 @@
  *   along with 920 Text Editor.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package com.jecelyin.editor;
+package com.wikaba.editor;
 
 
 import java.net.URLEncoder;

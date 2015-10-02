@@ -22,7 +22,8 @@ import java.io.FilenameFilter;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-import com.jecelyin.editor.JecEditor;
+import com.wikaba.editor.JecEditor;
+
 import android.content.SharedPreferences;
 
 public class ColorScheme

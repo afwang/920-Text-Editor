@@ -13,7 +13,7 @@
  *   along with 920 Text Editor.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package com.jecelyin.editor;
+package com.wikaba.editor;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -27,7 +27,6 @@ import java.util.Map.Entry;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
-import com.jecelyin.editor.R;
 import com.jecelyin.highlight.Highlight;
 import com.jecelyin.util.ColorPicker;
 import com.jecelyin.util.FileBrowser;
@@ -42,6 +41,7 @@ import com.jecelyin.widget.TabHost;
 import com.jecelyin.widget.TabHost.OnTabChangeListener;
 import com.jecelyin.widget.TabHost.OnTabCloseListener;
 import com.jecelyin.widget.TabWidget;
+import com.wikaba.editor.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;

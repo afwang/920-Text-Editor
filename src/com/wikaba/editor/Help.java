@@ -1,4 +1,4 @@
-package com.jecelyin.editor;
+package com.wikaba.editor;
 
 import com.jecelyin.util.FileUtil;
 

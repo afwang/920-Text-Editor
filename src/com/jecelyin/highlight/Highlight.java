@@ -25,9 +25,9 @@ import android.text.Spannable;
 import android.util.Log;
 
 import com.jecelyin.colorschemes.ColorScheme;
-import com.jecelyin.editor.JecEditor;
 import com.jecelyin.util.FileUtil;
 import com.jecelyin.widget.ForegroundColorSpan;
+import com.wikaba.editor.JecEditor;
 
 public class Highlight
 {

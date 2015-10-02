@@ -23,14 +23,14 @@ import java.util.regex.Pattern;
 import java.util.zip.CRC32;
 
 import com.jecelyin.colorschemes.ColorScheme;
-import com.jecelyin.editor.JecEditor;
-import com.jecelyin.editor.R;
-import com.jecelyin.editor.UndoParcel;
-import com.jecelyin.editor.UndoParcel.TextChange;
 import com.jecelyin.highlight.Highlight;
 import com.jecelyin.util.FileUtil;
 import com.jecelyin.util.TextUtil;
 import com.jecelyin.util.TimeUtil;
+import com.wikaba.editor.JecEditor;
+import com.wikaba.editor.R;
+import com.wikaba.editor.UndoParcel;
+import com.wikaba.editor.UndoParcel.TextChange;
 
 import android.app.AlertDialog;
 import android.content.Context;

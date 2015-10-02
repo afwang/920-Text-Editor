@@ -18,7 +18,7 @@ package com.jecelyin.widget;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.jecelyin.editor.R;
+import com.wikaba.editor.R;
 
 import android.content.Context;
 import android.util.AttributeSet;

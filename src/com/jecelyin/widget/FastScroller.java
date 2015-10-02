@@ -32,7 +32,7 @@ import android.view.MotionEvent;
 import android.widget.SectionIndexer;
 import android.widget.EditText;
 
-import com.jecelyin.editor.R;
+import com.wikaba.editor.R;
 
 /**
  * Helper class for AbsListView to draw and control the Fast Scroll thumb

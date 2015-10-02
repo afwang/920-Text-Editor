@@ -15,8 +15,8 @@
 
 package com.jecelyin.util;
 
-import com.jecelyin.editor.R;
 import com.jecelyin.widget.ColorPickerView;
+import com.wikaba.editor.R;
 
 import android.app.Dialog;
 import android.content.Context;
